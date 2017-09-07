@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+A Simple game for parents tom use to teach their kids ABC.
+- Offers random alphabet, sounds and exmaples of each letter.
+
+Thanks!
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
